@@ -3,7 +3,7 @@
 # Features
 * create profile
 * create group
-* chat in chat in subscribed groups
+* chat in subscribed groups
 * left gorup
 
 
